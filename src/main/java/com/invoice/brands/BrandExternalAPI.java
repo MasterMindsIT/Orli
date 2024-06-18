@@ -1,7 +1,5 @@
 package com.invoice.brands;
 
-import com.invoice.brands.models.Brand;
-
 import java.util.List;
 
 public interface BrandExternalAPI {

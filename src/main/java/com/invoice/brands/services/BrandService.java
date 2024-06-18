@@ -6,10 +6,8 @@ import com.invoice.brands.mappers.BrandMapper;
 import com.invoice.brands.models.Brand;
 import com.invoice.brands.repositories.BrandRepository;
 import lombok.AllArgsConstructor;
-import org.springframework.context.ApplicationEventPublisher;
 import org.springframework.stereotype.Service;
 
-import java.util.Collections;
 import java.util.List;
 import java.util.NoSuchElementException;
 
